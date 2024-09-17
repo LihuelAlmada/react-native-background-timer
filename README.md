@@ -2,10 +2,10 @@
 Emit event periodically (even when app is in the background).
 
 ## Installation
-1. If you use Expo to create a project [you'll just need to](https://facebook.github.io/react-native/docs/getting-started#caveats) "[eject](https://docs.expo.io/versions/latest/expokit/eject)".
+1. If you use Expo to create a project [you'll just need to](https://facebook.github.io/react-native/docs/getting-started#caveats) "[eject](https://docs.expo.dev/workflow/prebuild/)".
 
     ```bash
-    expo eject
+    npx expo prebuild
     ```
 
 2. Install React Native Background Timer package.
